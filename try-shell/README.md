@@ -1,4 +1,4 @@
-![image](https://bashlogo.com/img/symbol/jpg/monochrome_dark.jpg)
+![image](https://th.bing.com/th/id/R.6df906fdc9f2cd1188dac4d18d5bf5fa?rik=bE6bZwGvU4uE5w&riu=http%3a%2f%2fwww.mangadaku.com%2fimages%2flogo_shell.jpg&ehk=00vdNn%2bH0aWSUAwwRyhhCMVQX%2fAFJHWKn5GdQSPBQdQ%3d&risl=&pid=ImgRaw&r=0)
 <h1>0x16. C - Simple Shell</h1>
 Release date May 18, 2022
 
